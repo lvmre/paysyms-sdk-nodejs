@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@reloadly/reloadly.airtime": "^1.0.6",
+    "@reloadly/reloadly.authentication": "^1.0.6"
+  }
+}
